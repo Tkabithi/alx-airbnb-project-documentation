@@ -9,5 +9,5 @@ They ensure development is **user-centered** and aligned with real needs.
 ##  Files
 - **user-stories.md** → Contains all user stories (Guest, Host, Admin, External Systems).
 
-##  Example
+##  Exampl
 - *As a guest, I want to register an account so that I can search and book properties.*
