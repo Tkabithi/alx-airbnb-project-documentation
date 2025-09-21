@@ -1,4 +1,4 @@
-# Airbnb Clone – User Stories
+# Airbnb Clone – User Storie
 
 This directory contains the **User Stories** derived from the Use Case Diagram.
 
